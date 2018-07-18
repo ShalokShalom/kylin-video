@@ -1,5 +1,5 @@
-kylin-video (1.1.6-1) unstable; urgency=low
+kylin-video (1.1.7-1) unstable; urgency=low
 
-  * Initial release
+  * Initial release. (Closes: #904002)
 
- -- handsome_feng <jianfengli@ubuntukylin.com>  Wed, 11 Apr 2018 15:05:02 +0800
+ -- handsome_feng <jianfengli@ubuntukylin.com>  Tue, 17 Jul 2018 15:52:31 +0800
